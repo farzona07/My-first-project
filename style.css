@@ -1,0 +1,29 @@
+p {
+    /* property value pairs */
+}
+
+h1 {
+    background-color: brown;
+    margin: 10px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+p {
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+img {
+    border-radius: 50px;
+}
+b {
+   font-size: 20px;
+    text-align: end;
+}
+code {
+text-align: end;
+}
+
